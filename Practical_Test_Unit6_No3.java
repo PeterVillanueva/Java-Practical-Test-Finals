@@ -1,0 +1,30 @@
+package villanueva_package_PracticalTestUnit6;
+
+import java.util.Scanner;
+
+
+public class Practical_Test_Unit6_No3 {
+
+	public static void main(String[] args) {
+		System.out.print("How many rows? ");
+		Scanner scanner = new Scanner(System.in);
+		
+		int rows = scanner.nextInt();
+		
+		System.out.print("\n");
+		System.out.print("" + rows);
+		System.out.print("\n");
+		System.out.print("\n");
+		
+		for (int i = 1; i <= rows; ++i) {
+			for (int j = 1; j <= i; ++j) {
+			System.out.print("* "); 	
+			}
+			
+			System.out.println();
+			scanner.close();
+			
+	}
+	
+  }
+}
