@@ -16,8 +16,8 @@ public class Practical_Test_Unit6_No3 {
 		System.out.print("\n");
 		System.out.print("\n");
 		
-		for (int i = 1; i <= rows; ++i) {
-			for (int j = 1; j <= i; ++j) {
+		for (int a = 1; a <= rows; ++a) {
+			for (int b = 1; b <= a; ++b) {
 			System.out.print("* "); 	
 			}
 			

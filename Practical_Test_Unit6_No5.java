@@ -7,8 +7,10 @@ public class Practical_Test_Unit6_No5 {
 	public static void main(String[] args) {
 		
 		String input =
-				JOptionPane.showInputDialog("Input the number(Table to be calculated)");
-		
+				JOptionPane.showInputDialog("Input the number");
+		System.out.print("Number of Terms: " + input);
+		System.out.print("\n");
+	
 		int num = Integer.parseInt(input);
 		for(int i = 1; i <=num;i++)
 		{
