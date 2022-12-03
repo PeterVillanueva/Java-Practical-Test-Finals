@@ -8,7 +8,7 @@ public class Practical_Test_Unit6_No4 {
 		String input =
 		JOptionPane.showInputDialog("Input a Number.");
 
-		System.out.print("Input: " + input);
+		System.out.print("Input a Number: " + input);
 		
 		int num = Integer.parseInt(input);
 		if (num > 0)
