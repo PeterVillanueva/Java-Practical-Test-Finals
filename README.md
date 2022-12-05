@@ -2,15 +2,15 @@
 
 <h2 align="center"><b>Control Structures</b></h2>
 
-<p align="center">If Statement</p>
-<p align="center">If Else Statement</p>
-<p align="center">While Loop<p>
-<p align="center">Do While Loop</p>
-<p align="center">For Loop<p>
-<p align="center">Nested Loop</p>
-<p align="center">Switch Statement</p>
-<p align="center">Nested IF Else Statement</p>
+<p align="center">:rocket:If Statement</p>
+<p align="center">:rocket:If Else Statement</p>
+<p align="center">:rocket:While Loop<p>
+<p align="center">:rocket:Do While Loop</p>
+<p align="center">:rocket:For Loop<p>
+<p align="center">:rocket:Nested Loop</p>
+<p align="center">:rocket:Switch Statement</p>
+<p align="center">:rocket:Nested IF Else Statement</p>
 
 #
 
-<h5 align="center">all rights reserve to Peter Donniel P. Villanueva</h5>
+<h5 align="center">:copyright:all rights reserve to Peter Donniel P. Villanueva</h5>
